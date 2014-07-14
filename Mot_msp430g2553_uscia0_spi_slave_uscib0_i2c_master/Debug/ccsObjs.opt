@@ -1,0 +1,1 @@
+"./i2c_drv/uscib0_i2c_drv.obj" "./i2c_drv/i2c_msg.obj" "./os/os_tasks.obj" "./os/os.obj" "./sdq_drv/sdq_writebyte.obj" "./sdq_drv/msp430_sdqlib.obj" "./sdq_drv/eprom_sdq.obj" "./spi_drv/uscia0_spi_drv.obj" "./spi_drv/spi_com.obj" "./main.obj" "./app_status.obj" -l"libc.a" "../lnk_msp430g2553.cmd" 
